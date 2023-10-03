@@ -16,7 +16,9 @@ A summary of most CAD based projects I did during my undergraduate studies
 
 4. Palm tree climbing robot animation
 
-https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/477d0a7d-10f1-4191-a08f-0685942bb546
+
+
+https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/986efb16-de34-4763-b97a-773dd3090d05
 
 
 5. CAD design for Cable Drum carrier, at Jakob Thaler, Bad Bramstedt.
