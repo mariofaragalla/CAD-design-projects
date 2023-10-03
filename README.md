@@ -14,7 +14,7 @@ A summary of most CAD based projects I did during my undergraduate studies
 ![Humanoid robot assembly](https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/f4d6c437-83b0-4b2a-b3e0-82e52a088a15)
 
 
-3. Machine Design Project: 7 bar-mechanism , as part of undergraduate Machine Design course.
+3. Machine Design Project: 7 bar-mechanism , undergraduate Machine Design course.
 
 
 ![Machine design project - bar mechanism](https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/7d90fd12-a8d2-4dfe-961b-c57b3ac61c4b)
@@ -26,7 +26,7 @@ A summary of most CAD based projects I did during my undergraduate studies
 https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/986efb16-de34-4763-b97a-773dd3090d05
 
 
-5. CAD design for Cable Drum carrier, at Jakob Thaler, Bad Bramstedt.
+5. CAD design for Cable Drum carrier, as part of my internship at Jakob Thaler, Bad Bramstedt.
 
 
 https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/dd09a084-0ce9-437d-a1c9-bb271a47764f
