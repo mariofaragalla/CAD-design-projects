@@ -2,9 +2,9 @@
 A summary of most CAD based projects I did during my undergraduate studies
 
 
-1. Mechatronics project: Self-sensing treadmill. CAD design of [Self-sensing treadmill]([url](https://www.youtube.com/watch?v=alTh7zANkGQ)).
-![Mechatronics project- Self sensing treadmill](https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/0fbf308f-d4da-4edb-906a-e7ff9d859285)
+1. Mechatronics project: Self-sensing treadmill. CAD design of [Self-sensing treadmill](https://www.youtube.com/watch?v=alTh7zANkGQ)
 
+![Mechatronics project- Self sensing treadmill](https://github.com/mariofaragalla/CAD-design-projects/assets/55330224/0fbf308f-d4da-4edb-906a-e7ff9d859285)
 
 2. Humanoid CAD Robot assembly in solidworks, as part of my internship at RAS lab, GUC.
 
